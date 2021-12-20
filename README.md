@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Software Engineer in **[AL-Manar Group](https://al-manargroup.com/)**
+- 🔭 I’m currently working as a Software Engineer at **[AL-Manar Group](https://al-manargroup.com/)**
 
-- 🔭 I’m currently working as a Software Engineer in **[INTIGSOL Limited](https://intigsol.com/)**
+- 🔭 I’m currently working as a Software Engineer at **[INTIGSOL Limited](https://intigsol.com/)**
 
 - 🔭 I’m currently working on **[React](https://github.com/tanvirahmed007)**
   
