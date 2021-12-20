@@ -64,9 +64,9 @@
 <p align="left">
 
 
-<a href = "https://www.linkedin.com/in/tanvir-ahmed-3b8a811a4/"><img width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/tanvir-ahmed-3b8a811a4/"><img width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>Tanvir Ahmed</a>
 
-<a href = "https://www.instagram.com/____t_a_n_v_i_r____/"><img width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/____t_a_n_v_i_r____/"><img width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>Tanvir Ahmed</a>
 
 
 
