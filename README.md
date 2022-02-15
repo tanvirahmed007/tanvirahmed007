@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[React](https://github.com/tanvirahmed007)**
   
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **[MERN](https://github.com/tanvirahmed007)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://tanvirahmed.intigsol.com/)**
 
