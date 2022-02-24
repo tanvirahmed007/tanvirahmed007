@@ -31,7 +31,7 @@
     <a href="https://www.djangoproject.com/"><img width="50px" src="https://img.icons8.com/color/48/000000/django.png"/></a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png"/></a>
   
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></a>
   
   <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
