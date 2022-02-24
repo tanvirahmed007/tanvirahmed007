@@ -33,10 +33,10 @@
   
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/></a>
   
-  <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/96/000000/postgreesql.png"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/></a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/></a> 
     <a href="https://firebase.google.com/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
      <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.figma.com/"><img width="50px" src="https://img.icons8.com/fluency/48/000000/figma.png"/></a>
