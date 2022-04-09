@@ -51,7 +51,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href=""><img alt="Tanvir Ahmed's Github Stats" src="" /></a>
+    <a href=""><img alt="Tanvir Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" /></a>
   <a href="https://github.com/tanvirahmed007/github-readme-stats"><img alt="Tanvir Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirahmed007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br/>
