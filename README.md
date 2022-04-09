@@ -27,27 +27,27 @@
     </a>
     
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img width="50px" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+      <img width="50px" src="https://img.icons8.com/color/48/000000/javascript.png" /> 
     </a> 
   
     <a href="https://www.w3.org/html/" target="_blank"> 
-      <img  width="50px"src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+      <img  width="50px"src="https://img.icons8.com/color/48/000000/html-5.png" /> 
     </a> 
   
     <a href="https://www.w3schools.com/css/" target="_blank"> 
-      <img width="50px"src="https://img.icons8.com/color/48/000000/css3.png"/> 
+      <img width="50px"src="https://img.icons8.com/color/48/000000/css3.png" /> 
     </a> 
   
     <a href="https://getbootstrap.com" target="_blank"> 
-      <img width="50px"src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+      <img width="50px"src="https://img.icons8.com/color/48/000000/bootstrap.png" /> 
     </a> 
   
     <a href="https://www.python.org" target="_blank"> 
-      <img width="50px" src="https://img.icons8.com/color/48/000000/python.png"/> 
+      <img width="50px" src="https://img.icons8.com/color/48/000000/python.png" /> 
     </a> 
   
     <a href="https://www.djangoproject.com/">
-      <img width="50px" src="https://img.icons8.com/color/48/000000/django.png"/>
+      <img width="50px" src="https://img.icons8.com/color/48/000000/django.png" />
     </a>
   
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc">
@@ -55,35 +55,35 @@
     </a>
   
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
+      <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" />
     </a>
   
     <a href="https://www.postgresql.org/">
-      <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+      <img src="https://img.icons8.com/color/48/000000/postgreesql.png" />
     </a>
   
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> 
-      <img width="50px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+      <img width="50px" src="https://img.icons8.com/color/48/000000/nodejs.png" /> 
     </a> 
   
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
     </a>
   
     <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-        tal-revivo.png"/>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-        tal-revivo.png" />
     </a> 
   
     <a href="https://firebase.google.com/" target="_blank"> 
-      <img width="50px" src="https://img.icons8.com/color/48/000000/firebase.png"/> 
+      <img width="50px" src="https://img.icons8.com/color/48/000000/firebase.png" /> 
     </a> 
   
      <a href="https://git-scm.com/" target="_blank"> 
-       <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+       <img src="https://img.icons8.com/color/48/000000/git.png" /> 
      </a> 
   
     <a href="https://www.figma.com/">
-      <img width="50px" src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+      <img width="50px" src="https://img.icons8.com/fluency/48/000000/figma.png" />
     </a>
     
 </p>
