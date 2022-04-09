@@ -23,7 +23,7 @@
 <p align="left">
     
     <a href="https://reactjs.org/" target="_blank"> 
-      <img  width="50px"src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+      <img  width="50px"src="https://img.icons8.com/color/48/000000/react-native.png" /> 
     </a>
     
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
