@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://tanvirahmed.intigsol.com/)**
 
-- 📫 How to reach me **tanvir.ahmed@intigsol.com**
+- 📫 How to reach me **myselftanvirahmedshawon@gmail.com**
 
 - ⚡ Fun fact **Watch movies or hang out with friends.**
   
