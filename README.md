@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at **[INTIGSOL Limited](https://intigsol.com/)**
 
-- 🔭 I’m currently working on **[Django](https://github.com/tanvirahmed007)**
+- 🔭 I’m currently working on **[MERN Stack](https://github.com/tanvirahmed007)**
   
 - 🌱 I’m currently learning **[ASP.NET MVC](https://github.com/tanvirahmed007)**
 
