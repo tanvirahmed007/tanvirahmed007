@@ -4,15 +4,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Software Engineer at **[AL-Manar Group](https://al-manargroup.com/)**
+- 🔭 I’m currently working as a Software Engineer at **[Flora Systems](https://floralimited.com/)**
 
-- 🔭 I’m currently working as a Software Engineer at **[INTIGSOL Limited](https://intigsol.com/)**
 
 - 🔭 I’m currently working on **[MERN Stack](https://github.com/tanvirahmed007)**
   
-- 🌱 I’m currently learning **[ASP.NET MVC](https://github.com/tanvirahmed007)**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tanvirahmed.intigsol.com/)**
+- 🌱 I’m currently learning **[ASP.NET](https://github.com/tanvirahmed007)**
 
 - 📫 How to reach me **myselftanvirahmedshawon@gmail.com**
 
