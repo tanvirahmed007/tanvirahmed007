@@ -32,12 +32,7 @@ Tools & Technologies
 <p align="center"> <a href="https://www.linkedin.com/in/tanvir-ahmed-3b8a811a4/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/____t_a_n_v_i_r____/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://www.facebook.com/tanvir.ahmed01111"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="mailto:thisistanvirmail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> </p>
 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanvirahmed007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-text
 
-JavaScript    ████████████████████░░░░░   80.0%
-HTML/CSS      ██████░░░░░░░░░░░░░░░░░░░   20.0%
 
 <!--END_SECTION:waka--><div align="center">
 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
