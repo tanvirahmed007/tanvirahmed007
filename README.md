@@ -1,5 +1,5 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tanvir Ahmed
-<h3 align="center">A passionate Full Stack Developer specializing in PERN Stack</h3><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=PERN+Stack+Developer;Problem+Solver;Clean+Code+Advocate;Always+Learning" alt="Typing SVG" /> </p>
+<h3 align="center">A passionate Full Stack Developer specializing in PERN Stack</h3><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=PERN+Stack+Developer;Clean+Code;Always+Learning" alt="Typing SVG" /> </p>
 🚀 About Me
 
     💼 Currently working as a Software Engineer at Flora Systems
