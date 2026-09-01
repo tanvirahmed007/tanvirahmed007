@@ -11,10 +11,9 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 - 💼 Currently working as a Software Engineer at Flora Systems
 - 🔭 Building enterprise applications with **ASP.NET Core** & **AngularJS**
 - 🗄️ Working with **SQL Server** & **Oracle** databases
-- 🌱 Deep diving into **Microservices Architecture** & **Cloud Computing**
 - 💡 Passionate about creating scalable and maintainable web applications
 - 📫 Reach me at thisistanvirmail@gmail.com
-- ⚡ Fun fact: I love exploring new technologies and solving complex problems
+- ⚡ Fun fact: I love exploring new technologies
 
 ## 🛠️ Tech Stack
 
